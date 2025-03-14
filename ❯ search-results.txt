@@ -1,0 +1,94 @@
+❯ la
+.rwxr-xr-x 1.7k donaldmoore staff 17 Nov  2024 index.html
+❯ touch todo.md
+❯ code -r todo.md
+❯ dns
+zsh: command not found: dns
+❯ cd ../../../
+❯ ls
+ com     live   tools      bkup.sh
+ homes   org    training   Icon\r
+❯ cd ../../
+❯ ls
+ ___FREE_ONLINE_MARKETPLACE     grid.mp3
+ ansible-settings               Icon\r
+ containers                     js.in.zsh.sh
+ DNS                            LICENSE
+ src                            local
+ ___CLEAR_CACHE.sh              MODULE.bazel
+ ACKNOWLEDGMENTS.md             MODULE.bazel.lock
+ authenticator_qr.png           nook
+ AUTHORS.md                     One.workspace
+ bazel-_____WORKBENCH           package-lock.json
+ bazel-bin                      package.json
+ bazel-out                      paths.plain
+ bazel-testlogs                 Pricing.md
+ bkup.sh                        python.in.zsh.sh
+ CHANGELOG.md                   README.md
+ clean.wk.bin.sh                sound
+ code.manpage.plain             SUPPORT.md
+ CODE_OF_CONDUCT.md             utils
+ CONTRIBUTING.md                wksp
+ empty.wk.bin.csv               WORKSPACE
+ extension.js-debug.npmScript   yarn.lock
+ git-list.sh                    zsh.manpage.plain
+❯ find . -type f -name todo
+^C
+❯ find . -type f -name "*todo*"
+./src/utils/_heaven/node_modules/@fortawesome/fontawesome-free/svgs/brands/mastodon.svg
+./src/local/todo.rtf
+./src/dns/org/imgnx/www/todo.md
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/providers/mastodon.js
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/providers/todoist.d.ts.map
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/providers/todoist.d.ts
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/providers/mastodon.d.ts.map
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/providers/todoist.js
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/providers/mastodon.d.ts
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/src/providers/todoist.ts
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/src/providers/mastodon.ts
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/providers/mastodon.js
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/providers/todoist.d.ts.map
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/providers/todoist.d.ts
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/providers/mastodon.d.ts.map
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/providers/todoist.js
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/providers/mastodon.d.ts
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/src/providers/todoist.ts
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/src/providers/mastodon.ts
+./src/dns/com/imgfunnels/www/node_modules/next-auth/providers/todoist.d.ts.map
+./src/dns/com/imgfunnels/www/node_modules/next-auth/providers/todoist.d.ts
+./src/dns/com/imgfunnels/www/node_modules/next-auth/providers/todoist.js
+./src/dns/com/imgfunnels/www/node_modules/next-auth/src/providers/todoist.ts
+./src/dns/com/freeonlinemarketplace/www/node_modules/next-auth/providers/todoist.d.ts.map
+./src/dns/com/freeonlinemarketplace/www/node_modules/next-auth/providers/todoist.d.ts
+./src/dns/com/freeonlinemarketplace/www/node_modules/next-auth/providers/todoist.js
+./src/dns/com/freeonlinemarketplace/www/node_modules/next-auth/src/providers/todoist.ts
+./src/dns/com/freeonlinemarketplace/www/todo
+./src/dns/com/freeonlinemarketplace/___FREE_ONLINE_MARKETPLACE.COM__/todo
+❯ rm -rf src/dns/com/freeonlinemarketplace/www/node_modules
+❯ find . -type f -name "*todo*"
+./src/utils/_heaven/node_modules/@fortawesome/fontawesome-free/svgs/brands/mastodon.svg
+./src/local/todo.rtf
+./src/dns/org/imgnx/www/todo.md
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/providers/mastodon.js
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/providers/todoist.d.ts.map
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/providers/todoist.d.ts
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/providers/mastodon.d.ts.map
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/providers/todoist.js
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/providers/mastodon.d.ts
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/src/providers/todoist.ts
+./src/dns/com/imgfunnels/www/node_modules/@auth/prisma-adapter/node_modules/@auth/core/src/providers/mastodon.ts
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/providers/mastodon.js
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/providers/todoist.d.ts.map
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/providers/todoist.d.ts
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/providers/mastodon.d.ts.map
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/providers/todoist.js
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/providers/mastodon.d.ts
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/src/providers/todoist.ts
+./src/dns/com/imgfunnels/www/node_modules/@auth/core/src/providers/mastodon.ts
+./src/dns/com/imgfunnels/www/node_modules/next-auth/providers/todoist.d.ts.map
+./src/dns/com/imgfunnels/www/node_modules/next-auth/providers/todoist.d.ts
+./src/dns/com/imgfunnels/www/node_modules/next-auth/providers/todoist.js
+./src/dns/com/imgfunnels/www/node_modules/next-auth/src/providers/todoist.ts
+./src/dns/com/freeonlinemarketplace/www/todo
+./src/dns/com/freeonlinemarketplace/___FREE_ONLINE_MARKETPLACE.COM__/todo
+   ~/L/Mob/com~apple~C/_____WORKBENCH ❯    at   10:04:24 PM

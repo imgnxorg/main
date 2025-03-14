@@ -1,0 +1,7 @@
+{
+  "name": "org.imgnx.www",
+  "packageManager": "yarn@4.7.0",
+  "dependencies": {
+    "parcel": "^2.13.3"
+  }
+}
